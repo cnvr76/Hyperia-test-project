@@ -1,114 +1,3966 @@
 [
-  {
-    "title": "Umschlag - Köln",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/M0UFd50qXoxZcr2VFXbR7pRdzhY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/331071/0.jpg?t=1741504342",
-    "shop_name": "Kaufland",
-    "valid_from": "03-13-2025",
-    "valid_to": "03-19-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "EDEKA: Wochenangebote",
-    "thumbnail": "https://media.marktjagd.com/16618280_240x347_fillFFFFFF.jpg",
-    "shop_name": "Edeka",
-    "valid_from": "03-16-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/G-vZ_wKD0f1KNJPP_F9rWUs8JBY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/336189/0.jpg?t=1742076617",
-    "shop_name": "Norma",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Hessen",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/uCfnLHugTFuVAkSkcFyG6aTYTTM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/324612/0.jpg?t=1740898647",
-    "shop_name": "Lidl",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Produktkatalog - Fleisch & Fisch",
-    "thumbnail": "https://eu.kimbicdns.com/all/upload/a/7/9/a793f9e0ab2f57cae799afb6a2c98bc72a26abd8/letkim-first-page-de-rewe_028_thumb_240x.jpg",
-    "shop_name": "Rewe",
-    "valid_from": "03-06-2025",
-    "valid_to": "Not specified",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/vDyx9MwbqaAu-VYPPIHUjA0nbL0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/340731/0.jpg?t=1742200453",
-    "shop_name": "Netto",
-    "valid_from": "03-24-2025",
-    "valid_to": "03-29-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/9fsaxF1Yhlo1wQgVUwYWI0nArEw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/336129/0.jpg?t=1742076619",
-    "shop_name": "Penny",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Globus: Wochenangebote",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/OOicozfmdYDRd1AICEzQjDf-xiA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337824/0.jpg?t=1742224800",
-    "shop_name": "Globus",
-    "valid_from": "03-16-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/PmZIFlQCpm3R085rDTWS7kSLajM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/336330/0.jpg?t=1742076620",
-    "shop_name": "Combi",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Berlin",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/8pYE0cLyvF3aBSCDLCtl4Itb91E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339036/0.jpg?t=1742113957",
-    "shop_name": "HIT",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Netto: Jetzt auch bei WhatsApp!",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/vvvkqqT-boYIj0PvnbfHjiSTPQs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/251832/0.jpg?t=1740705479",
-    "shop_name": "Netto Marken-Discount",
-    "valid_from": "11-15-2022",
-    "valid_to": "Not specified",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Onlineshop",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/KCPGYp3sGygpglLhQ8XncvWH_rM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/339135/0.jpg?t=1742133131",
-    "shop_name": "Aldi",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Prospekt",
-    "thumbnail": "https://eu.leafletscdns.com/thumbor/sm_fP8gaG20ChYqspTQwB4EbpBc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/338904/0.jpg?t=1742106269",
-    "shop_name": "NP Discount",
-    "valid_from": "03-17-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  },
-  {
-    "title": "Marktkauf: Wochenangebote",
-    "thumbnail": "https://media.marktjagd.com/16622587_240x339_fillFFFFFF.jpg",
-    "shop_name": "Marktkauf",
-    "valid_from": "03-16-2025",
-    "valid_to": "03-22-2025",
-    "parsed_time": "03-19-2025 20:48:15"
-  }
+  [
+    [
+      {
+        "title": "Pyrex",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DtobPOoV64sA5cqAvRh95yTq48Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/279507/0.jpg?t=1737356048",
+        "shop_name": "AEZ",
+        "valid_from": "01-20-2025",
+        "valid_to": "05-10-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KOpadSXugbabAEEkse70sPjzjtc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/336081/0.jpg?t=1742076619",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2FosCP3mkILQwfD6PKQZ6nzJ5UY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/347337/0.jpg?t=1742456474",
+        "shop_name": "AEZ",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8VFzwCIZdYlqi9Oyav9uDWECFWs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/328269/0.jpg?t=1742076619",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/RaYoqGhseS7Ka-d66nmIqMAoK1Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/319356/0.jpg?t=1741471835",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/I7YU2YwhTA72UwCJ3pJr96-Fib0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/311808/0.jpg?t=1740867014",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9Cpl2rnxriQj2LV_wWc-sgDqsCs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/304818/0.jpg?t=1740262207",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2xq7sZYX86A1Fy0ZhiWJuZ3JtOI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/296742/0.jpg?t=1739657421",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-irGOes3puGN2JCK1NvizFkIRso=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/288657/0.jpg?t=1739052668",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/jKdQjpKerjC1fBNLPs8arAvN6vs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/237/281505/0.jpg?t=1738447832",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Jozw6ICKG1amfpvY9iHSyPAdUrM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/331206/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GP0sis7apcAmNomDfnZS0jKKsAE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/338913/0.jpg?t=1742106403",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Onlineshop",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KCPGYp3sGygpglLhQ8XncvWH_rM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/339135/0.jpg?t=1742133131",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt Gourmet",
+        "thumbnail": "https://media.marktjagd.com/16644899_240x339_fillFFFFFF.jpg",
+        "shop_name": "Aldi",
+        "valid_from": "03-16-2025",
+        "valid_to": "04-19-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Talk",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Yr0Zq9YNtXNFBP8KruUUH3g5vt8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/319479/0.jpg?t=1740734674",
+        "shop_name": "Aldi",
+        "valid_from": "02-28-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-CWqhKefkgljfn0umo_TRbItGNY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/324444/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Onlineshop",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JUNnokfcmRfUINXFiAiW-5FWofo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/326364/0.jpg?t=1740996936",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "ALDI Nord: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/NihnO8EPTRT48-ldidfjEJgsh0M=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/322527/0.jpg?t=1740990725",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/z1mQr3-Rfi8ynyeEkYKiMR0ZOaU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/315489/0.jpg?t=1741471833",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      },
+      {
+        "title": "Hildburghausen, Coburger Straße 26",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CtKx4h8op9Xps7HiyzVUQQx-Owk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/2/320757/0.jpg?t=1740816812",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:08:41"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ELM_hie6JcSMwoR4JPJIA6_nfIs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/324447/0.jpg?t=1742076616",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/K-Od3SLOa9KoU_XnjolrRQulTvU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/338916/0.jpg?t=1742112150",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KdLxLyNCrSRT9mMnxo-uJ80R5_o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/331119/0.jpg?t=1741968505",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Garten & Grillen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TwuU2rPQQW9S0p9mMIUbutL_e7o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/319452/0.jpg?t=1741195290",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-06-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Reisemagazin März 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/z9PNKnV_PnAyCggdv_sZXcZQL_Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/321555/0.jpg?t=1740811078",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-30-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Talk",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/H9yp0jRWSTY22VN_UsShQm53HP4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/328299/0.jpg?t=1741258840",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dBYF3CfB5M0lYbZALyRpyohPllo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/315258/0.jpg?t=1742076616",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-xXc8Wrx9GofkfikYyZKDNGTrYc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/315261/0.jpg?t=1740978666",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/wfSwiSw6XzBINvZEVO56GwLb4xc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/308321/0.jpg?t=1741471810",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Berg. Gladbach, Leverkusener Straße 10",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/h3dYTwQ1L53L22PhNkPOFKkejUM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/44/320859/0.jpg?t=1740821462",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/aYjtQ4zT_GGOklRCQtYu-SxvH88=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/34/324693/0.jpg?t=1740914113",
+        "shop_name": "Alnatura",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9-hOhP65CKzCG-DLa0StU2A9DJs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/34/295017/0.jpg?t=1738739831",
+        "shop_name": "Alnatura",
+        "valid_from": "02-01-2025",
+        "valid_to": "02-28-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9tSmY5tv_jIu0OSREBPJ4Lyk470=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/34/257781/0.jpg?t=1736326575",
+        "shop_name": "Alnatura",
+        "valid_from": "01-01-2025",
+        "valid_to": "01-31-2025",
+        "parsed_time": "03-20-2025 18:08:42"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Katalog",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/nWmaMmDllAF1tKJphGlA7vUWNcg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/84/317754/0.jpg?t=1740780620",
+        "shop_name": "AEZ",
+        "valid_from": "03-02-2025",
+        "valid_to": "09-06-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Ostermagazin",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/eTnBn5aR494NONnMcn_IDONmRss=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/84/341001/0.jpg?t=1742370031",
+        "shop_name": "AEZ",
+        "valid_from": "03-18-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Osterprogramm ",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JxI_N7m0w-G4BOqyayEoxqZODO4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/84/341004/0.jpg?t=1742370167",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "04-20-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Katalog",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dDQANzTOR1PIiVLEme0JmHVqC28=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/84/168582/0.jpg?t=1740780619",
+        "shop_name": "AEZ",
+        "valid_from": "10-10-2024",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:09:10"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2Yj8PsUtLs7oQUphmdyYZVJnJSo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/328245/0.jpg?t=1741471833",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KIwIgH9lGaKM10TrGSc0DC-O0HQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/347340/0.jpg?t=1742457614",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/oVBhS8p21BqaPEGUNBspAWvJhBI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/311823/0.jpg?t=1741471832",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lAIs2kVYnOn-fqgznCLZDv_8EJQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/296739/0.jpg?t=1740262205",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4MevtOMnxP9TqL2puR7Gp1kWRJg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/281427/0.jpg?t=1739052615",
+        "shop_name": "Aldi",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KgmbGG7sxJkNGJLOB-_miNrYM64=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/187/259977/0.jpg?t=1737843023",
+        "shop_name": "Aldi",
+        "valid_from": "01-13-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FMbJ-k6kNvyk05xRiWs9uvdXTMw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/336258/0.jpg?t=1742076619",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PelFiRrS18DRqW5mn8LKLYAHzHM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/328281/0.jpg?t=1742076619",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/c8PFlHegogz-fnoiXQK-jW2T3ug=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/319794/0.jpg?t=1741471836",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KGwwUEbBgdHanC2dOvbMCxeXNI4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/311937/0.jpg?t=1740262208",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IUbRGe9OLC3ZyHTgB_vcJXRCUJY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/305394/0.jpg?t=1740262208",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/j76H_822YsYqaJmvqcrY5Gv2SBQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/296892/0.jpg?t=1739657422",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/SSJ0zMOg7uECS7mFL7Gmh8NEKY0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/288900/0.jpg?t=1739052670",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lniA7UWs6DdG3rlksDYAum3Quew=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/281514/0.jpg?t=1738447832",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/g-59NRpSyQhgIYrbEd2qSCVvF7g=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/189/275010/0.jpg?t=1737843026",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      }
+    ],
+    [
+      {
+        "title": "Dänemark-Werbung",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/NYoikJJp-TCWO-ejqC401UehApk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/340998/0.jpg?t=1742368237",
+        "shop_name": "Alnatura",
+        "valid_from": "03-19-2025",
+        "valid_to": "04-08-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Rum aus aller Welt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/UliZsHaeBjxyLU7m3FHY8PQ8FVQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/340884/0.jpg?t=1742297895",
+        "shop_name": "Alnatura",
+        "valid_from": "03-19-2025",
+        "valid_to": "04-01-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Imbiss-Hits für Profis",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/byXnaipSxu8RxPy17HD3JPiHlq4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/334428/0.jpg?t=1741759870",
+        "shop_name": "Alnatura",
+        "valid_from": "03-12-2025",
+        "valid_to": "04-22-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Kioskwerbung",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/L76Yz0fA0oz0Hcers3jPsEXkw04=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/334431/0.jpg?t=1741761711",
+        "shop_name": "Alnatura",
+        "valid_from": "03-12-2025",
+        "valid_to": "03-25-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Aktuelle Angebote für Profis",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GXjgcjUovmqvajL4gPOTJplkFXk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/334434/0.jpg?t=1741761605",
+        "shop_name": "Alnatura",
+        "valid_from": "03-12-2025",
+        "valid_to": "03-25-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Schweden-Werbung",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ppMicqmkvFzjKNmGpaVk5j6uvdc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/309993/0.jpg?t=1739781052",
+        "shop_name": "Alnatura",
+        "valid_from": "02-17-2025",
+        "valid_to": "04-21-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Vorteilsheft",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/cVTxaFF2htXWRRkbV4sM8k6DEkE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/241902/0.jpg?t=1735293301",
+        "shop_name": "Alnatura",
+        "valid_from": "01-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Citti Genuss",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Px3Mf6JwirqzLNytzUe0xyfRZqU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/171381/0.jpg?t=1728982298",
+        "shop_name": "Alnatura",
+        "valid_from": "10-16-2024",
+        "valid_to": "04-15-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Eb7SyB62DxmxoDVGqwljuVDeSXw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/340869/0.jpg?t=1742293409",
+        "shop_name": "Alnatura",
+        "valid_from": "03-19-2025",
+        "valid_to": "03-25-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PQhbytU7nB2ON5M83hsCzFnD_FQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/249/332979/0.jpg?t=1742292607",
+        "shop_name": "Alnatura",
+        "valid_from": "03-12-2025",
+        "valid_to": "03-18-2025",
+        "parsed_time": "03-20-2025 18:09:10"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PmZIFlQCpm3R085rDTWS7kSLajM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/336330/0.jpg?t=1742076620",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Dreitag-Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ar8457pDc6EX4qX65sPhewA5Qik=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/347307/0.jpg?t=1742454866",
+        "shop_name": "AEZ",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Wochenknaller",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0IE6RFm7RSeM9saBWbZgs3A5LEM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/336333/0.jpg?t=1742031492",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "myTime März 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/OgLhD1dxLK6SXswN8L5sS1Pghq8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/319350/0.jpg?t=1740638256",
+        "shop_name": "AEZ",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Dreitag-Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2QHPPo_wdbGusBzJdpZmAjCZpLU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/347118/0.jpg?t=1742445197",
+        "shop_name": "AEZ",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Markt Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IWTHta1Ajg_-0Fws-zujqZetQ84=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/340734/0.jpg?t=1742199665",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Markt Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/UKj3BjbvqJaV1XJWZsBri5nNdoA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/331392/0.jpg?t=1741616647",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Unsere Combi Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Jgx8Xk0zsEPEkej40izTJd9s56k=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/331383/0.jpg?t=1741616646",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Unsere Combi Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2tf2dp5j-V45UwAH9lUdyXJaX0Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/331380/0.jpg?t=1741616646",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Unsere Combi Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/MI0FkdbkXbhDr8zxoeqYSM95bGg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/12/331377/0.jpg?t=1741616650",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dxIXeeK4AR_HZ37Ot7iU_5d-l0o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/336024/0.jpg?t=1742076618",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6JaDh-MnSQ_Fs7CMN4CHFM8ZkK8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/347313/0.jpg?t=1742453896",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/HzACp5M6WeQM3rkqSweAoaTCoW8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/347316/0.jpg?t=1742455721",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/E_cyAoK0RrFMRQV07YAI8tIR0qk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/336021/0.jpg?t=1741846157",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/1XBD8I3eaNsn9BRz8vTxdTExmUg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/328236/0.jpg?t=1741246617",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dJm3HL7_1iBDSfeLxTDvQoQ3Km8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/328233/0.jpg?t=1742076618",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/VMPVO5TkRzRdLt-WQBhC5vHM40I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/319347/0.jpg?t=1741471835",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0XfNRRHXbMBDcYzb7jE5yAwha5I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/319344/0.jpg?t=1740637731",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/nIRUfQZAAm3_hieA3vLotEmyagE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/311802/0.jpg?t=1740867013",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-34tw7mRA4lmb7WDGkn-SFnoiNc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/243/311799/0.jpg?t=1740035822",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:09:50"
+      }
+    ],
+    [
+      {
+        "title": "Neuss, Holzheimer Weg 4",
+        "thumbnail": "https://media.marktjagd.com/16654560_240x361_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Dortmund, Löttringhauser Straße 2",
+        "thumbnail": "https://media.marktjagd.com/16618498_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Kirchseeon, Westring 5",
+        "thumbnail": "https://media.marktjagd.com/16615863_240x326_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Essen, Heisinger Straße 496",
+        "thumbnail": "https://media.marktjagd.com/16618186_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Düsseldorf, Schlüterstraße 3b",
+        "thumbnail": "https://media.marktjagd.com/16618522_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt Stutgart",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QDowOrRYj78LseQMtpDwF1j_6Qk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340677/0.jpg?t=1742193111",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt Magdeburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/W29hzwRK3q56axC6Snh7dV50UcM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340680/0.jpg?t=1742193112",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt Leipzig",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/cUYV9CpA00owfyngmGQ8guLtRaA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340683/0.jpg?t=1742193118",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt Hannover",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sm0evfic-_F4gsSK5QWn7GWSttg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340686/0.jpg?t=1742193113",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Köln, Berliner Straße 823",
+        "thumbnail": "https://media.marktjagd.com/16618196_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt Hamburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/P0sedvBEvnwYo6x4KIog1DZQMx8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340689/0.jpg?t=1742193101",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "Prospekt - Bremen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xvuWwZxRxui2xH6cwcTUrBwgQZo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/11/340692/0.jpg?t=1742193127",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "EDEKA: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16617986_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "EDEKA: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16618420_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "EDEKA: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16617876_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      },
+      {
+        "title": "EDEKA: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16618286_240x347_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:51"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/aSDqo4WKsf822ANB3KWNOFzjCgw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/339132/0.jpg?t=1742120417",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "Wein– und Spirituosen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TJaVbEk_vpCYFICwEgsnUOGCzCI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/190425/0.jpg?t=1731007750",
+        "shop_name": "Alnatura",
+        "valid_from": "11-07-2024",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "E-Center",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/pNR2IvnNhxqaXIW66CbZBvmJy-c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/331170/0.jpg?t=1741513576",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lU9hFhcAd7guBV0Nd-Wk7OrdYJ0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/331167/0.jpg?t=1741513457",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "E-Center",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QYcqpuqFmgHv3-zX5Pi-kbTLwJY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/324477/0.jpg?t=1740898269",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/3ZC-t--F178reQD5Gx5t8UQIxrU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/324474/0.jpg?t=1740898269",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "E-Center",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ZeNt4Xqnl4yosZlUdUxoEctUqwo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/315267/0.jpg?t=1740302261",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/F6EFsjvUlJazEKtCA9J_kUc-Jwk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/315264/0.jpg?t=1740302261",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "E-Center",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CopuZVClph-u-NOrD6Fd7kiLg34=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/308327/0.jpg?t=1739692418",
+        "shop_name": "Alnatura",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/7NRbnuJyZIfHMte3ofWJ2m_dB70=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/104/308324/0.jpg?t=1739692420",
+        "shop_name": "Alnatura",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:09:59"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/U_ZVEeKS6y5q6mN_kyUDrGj9KoE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/339078/0.jpg?t=1742117315",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6uyw-866kMx5NRZaakAq0hkYzig=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/331251/0.jpg?t=1741513574",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IlRi0bH7svg7VG_HYu2pZ9jHDWU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/324696/0.jpg?t=1740914113",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QEvcYFsCouLddvAcS6jS5z--5Ks=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/315477/0.jpg?t=1740325929",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/f1uc5L5hN-pxhDfko1JpXjwPevg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/308456/0.jpg?t=1739709258",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-aaR_McDj4eN9HCl2MlBTFkbBx8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/300003/0.jpg?t=1739106824",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/40dzUVdj6pygAAeF5MjbtBJTmEI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/292803/0.jpg?t=1738479472",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CLR8lDqMDF3ywaFgzK9WpxzP33A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/285108/0.jpg?t=1737879365",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/oU_zZsCfV4_PT6DMS2VAjzW5jDw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/191/277968/0.jpg?t=1737298103",
+        "shop_name": "AEZ",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/YjUkNfKEW53QivkkAy9gR-EPlGk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/338991/0.jpg?t=1742115900",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DL94-O209nDPgEzuSJENvcFDwq4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/341007/0.jpg?t=1742369713",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Fischmarkt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PXOrLZfewgIDs5yWia1VJk4QJeY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/336159/0.jpg?t=1741947183",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PW5UJKHdb79gjmkRNIomg_w_QWs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/326424/0.jpg?t=1741471835",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Fischmarkt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/YTz0FIPH89YdK2yB4IpQzJIdAqM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/317568/0.jpg?t=1740466662",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/_YDKahGKlNErKYm74r9HZB3SRU8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/317565/0.jpg?t=1741471835",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/izbVbpjgCxb3o9d3gGOVS2x5xCQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/310074/0.jpg?t=1740867013",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Fischmarkt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-YhZ5QwqRWd6KFuT6C1iikqTSLI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/301710/0.jpg?t=1739261363",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Y4mCOLum0AFbkIxy6AOG8n-5aa0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/301707/0.jpg?t=1740262206",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/oQ3cLkHX4QgfLjO8XlzT5xsXqLA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/8/296724/0.jpg?t=1739657420",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/M9DBkDDs8zl5WrK_Zy-NgUtPZIE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/336336/0.jpg?t=1742076620",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Preishammer",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gXZ53lMemFubIsZ1M570kemrCgI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/336339/0.jpg?t=1742032574",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-18-2025",
+        "valid_to": "03-24-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "myTime März 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/fozYfZoxv1hEYyeHDVBt5mzsCKM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/319353/0.jpg?t=1740636422",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Preishammer",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/U-iefu-CvHHZBjX1IhQaqML5QV0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/328449/0.jpg?t=1741420859",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-11-2025",
+        "valid_to": "03-17-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ZfobPo9BTvYHEI8fbvV3FO-Fz4w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/328446/0.jpg?t=1742076619",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Wochenend-angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ObDXlJZ_XlGCRUs3pviIftXQlPs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/328263/0.jpg?t=1741247952",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-06-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Preishammer",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ZHqU-VHxgqxECosIxmB8ymh77e0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/321615/0.jpg?t=1740813632",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-04-2025",
+        "valid_to": "03-10-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Aktuelle Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/UxOU2mzksWucMqK7t1dLjOmTgk0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/321621/0.jpg?t=1740815624",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/kk31elMF3fRnPw1NEpmxBdgoYzA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/321618/0.jpg?t=1741471836",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Wochenend-angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/bgAduFHC1XYMemmP88bRfsmF-yo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/231/317826/0.jpg?t=1740573679",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-27-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      }
+    ],
+    [
+      {
+        "title": "Angebote",
+        "thumbnail": "https://media.marktjagd.com/16644924_240x311_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gPIxXuQufaPsfjHCmOC5AEe5dfI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/347127/0.jpg?t=1742445947",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/EM1irHRDnCOJv07Dst2Zd8QLXhg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/328275/0.jpg?t=1742076619",
+        "shop_name": "Alnatura",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/1y8SqtTu1aX1t8_4zJbfampSn-c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/319398/0.jpg?t=1741471835",
+        "shop_name": "Alnatura",
+        "valid_from": "03-06-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/g4GrYUf3_aft37w0xwxVUG_UaJo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/311820/0.jpg?t=1740867014",
+        "shop_name": "Alnatura",
+        "valid_from": "02-27-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/_6_z6oO9Qxqu50gm1T5sRqh3HtQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/304812/0.jpg?t=1740262207",
+        "shop_name": "Alnatura",
+        "valid_from": "02-20-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-D1GIEVjCDMuIF93LZ-_g7uiyHU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/296727/0.jpg?t=1739657420",
+        "shop_name": "Alnatura",
+        "valid_from": "02-13-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xeLok0YLqEmK9Km44jkZk52mw2s=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/288672/0.jpg?t=1739052669",
+        "shop_name": "Alnatura",
+        "valid_from": "02-06-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gU6VC2kElTJy854B8hkSZb1YXYo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/281496/0.jpg?t=1738447832",
+        "shop_name": "Alnatura",
+        "valid_from": "01-30-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      },
+      {
+        "title": "Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dKNITVBOyhSKRnghHfUxpHvdagk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/185/272289/0.jpg?t=1737843025",
+        "shop_name": "Alnatura",
+        "valid_from": "01-23-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:10:29"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/O_IOhUjGeVBLln3vKFI_vik96uQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/339075/0.jpg?t=1742117401",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/XHv-aUVz_njdFJlF_ILMJI7b_gk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/324492/0.jpg?t=1740898271",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TKVj1A5RjnvOg-2DWA7j1R3s40A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/308453/0.jpg?t=1739697690",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sqjvchKOOA4M9yR9S8oXVd0jmJk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/292794/0.jpg?t=1738482722",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8B7mhsSa-8eWrj4czcFg3MoCb3E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/192/279510/0.jpg?t=1737355573",
+        "shop_name": "AEZ",
+        "valid_from": "01-20-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      }
+    ],
+    [
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sxYozbUuJVgBBPQu7O-Qbixy87I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/347310/0.jpg?t=1742451614",
+        "shop_name": "Aldi",
+        "valid_from": "03-26-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IOVfqX115gn4PHWyc6WpNelACnI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/336138/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/hO-I-YG3sx3ww0dHez9Z526SFMY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/336018/0.jpg?t=1741845593",
+        "shop_name": "Aldi",
+        "valid_from": "03-19-2025",
+        "valid_to": "03-19-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ss2ZioXJjmWV277F6apT4rhREFY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/328314/0.jpg?t=1741261377",
+        "shop_name": "Aldi",
+        "valid_from": "03-12-2025",
+        "valid_to": "03-12-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/d1X8XLunHDXk41P0ocW6tW6StAM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/319407/0.jpg?t=1740651638",
+        "shop_name": "Aldi",
+        "valid_from": "03-05-2025",
+        "valid_to": "03-05-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/l6qtMF1FCcPuQe8xeQH7bu5wex4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/319446/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/C4peisPbZRiBzzhjgDibF34zYWY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/311853/0.jpg?t=1740044238",
+        "shop_name": "Aldi",
+        "valid_from": "02-26-2025",
+        "valid_to": "02-26-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Mittwochs Kracher",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-LpAivvpWOeHbeaEw2aKViyg5OI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/304821/0.jpg?t=1739434577",
+        "shop_name": "Aldi",
+        "valid_from": "02-19-2025",
+        "valid_to": "02-19-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Aktueller Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ePgosrcYahJV_0rdpbny5BbrLTM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/305562/0.jpg?t=1740781768",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/orZVRL-6cYTtAOdTe3nHCPSArkw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/193/305325/0.jpg?t=1740867011",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      }
+    ],
+    [
+      {
+        "title": "Hamburg, Grandkuhlenweg 11",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/cUFJMFft7Xniqbja6OOJYQCaoEI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337926/0.jpg?t=1742224850",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Essen, Haedenkampstraße 21",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DEP8KcMHhe7uN-emhMsozRHKvnM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337965/0.jpg?t=1742224850",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Köln-Marsdorf, Max-Planck-Straße 9",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6NMV6Vc6aUY-StF7xLgTvhVZowA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337884/0.jpg?t=1742224852",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8WSi4wolHH7pBvxLvoUD7ZwybMQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337920/0.jpg?t=1742224755",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DmyH9Kv5pSFGnvhLwwhHIgP7xIc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337410/0.jpg?t=1742224716",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/45L3_KvTxUEVP--XddAz_aUAQC4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337668/0.jpg?t=1742224711",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gorMk4sI4OKEVE_jGgSOcMSKx2A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337419/0.jpg?t=1742224731",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/hN7Yn9jb5OFXNRRFooqVZFTd5VU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337932/0.jpg?t=1742224771",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/wUj__7e8km7982Kj94jiDdDnpV4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337941/0.jpg?t=1742224786",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0-N4unkiwvaU8wpKPMiV6TvBhZ8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337686/0.jpg?t=1742224721",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/yMK5nn2XGdFvfWUGSUEQsTvGqTc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337947/0.jpg?t=1742224706",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/qb_aRBpg86ZKehQUf7SdDwSYwFc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337437/0.jpg?t=1742224741",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/5LkB8jnQLKfSRVqir6duIrxcqa4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337953/0.jpg?t=1742224801",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8tnM3BFEkvkZwZS58gsaag2qFJU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337959/0.jpg?t=1742224819",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/RNAYA5nhMrrxQnEGF3zFcNpdtVI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337704/0.jpg?t=1742224831",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Globus: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/HPdtaZsTy_a73SCByNUCt_daDbU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/9/337452/0.jpg?t=1742224760",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      }
+    ],
+    [
+      {
+        "title": "Ihr super Wochenende",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IusfNL804MWoxUhz_suqCV19MO4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/340704/0.jpg?t=1742198746",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Bau & Garten",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/J1XEyAGUStumgQOlpnbfFefD6Hc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/340698/0.jpg?t=1742198767",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Technik Partner",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/q6zcb4M3dBT3HE_FehBIvvXZWFg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/340701/0.jpg?t=1742198865",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/visLOEpDII6aqYT1PDMr1qZ7zmM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/340695/0.jpg?t=1742198772",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Sonderbeilage",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/7qa3A1lV42gHXf_9h6_pm1WUBsg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/328458/0.jpg?t=1741421579",
+        "shop_name": "Alnatura",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/VZn0XK5olQ57Z7WtMV_sYHKp4DA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/328461/0.jpg?t=1741471836",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Bau & Garten",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/5cl0XSdvc25atkiiixIja_SZ2Ww=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/328455/0.jpg?t=1741419898",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Sonderbeilage",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/1vRm2nNtnm2Yha9kOxJnuRbOKCQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/321549/0.jpg?t=1740812164",
+        "shop_name": "Alnatura",
+        "valid_from": "03-06-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/O5Wy--1818k82Q1Drh250SBirvQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/321552/0.jpg?t=1741471836",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      },
+      {
+        "title": "Technik Partner",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/msraO8CVywUO9E5xfADf749Uweg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/234/321546/0.jpg?t=1740810353",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:11:08"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Berlin",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8pYE0cLyvF3aBSCDLCtl4Itb91E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339036/0.jpg?t=1742113957",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Mecklenburg-Vorpommern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TERFDJ_RC3lzMbdHVuGLLAoRVr8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339039/0.jpg?t=1742113956",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Sachsen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6Ub8DxydypQmx9pWEOSeBs47nkY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339042/0.jpg?t=1742113963",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Rhineland-Palatinate",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/SiB1yPzsW9nbgc6_5yA6Rm1bJks=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339045/0.jpg?t=1742113886",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4dkn37SHBSqQJWAg8agyxx7TBbk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339048/0.jpg?t=1742113891",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/mjRomZfCwKZIue1kywO4bC088Uc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339051/0.jpg?t=1742113973",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Rheinland-Pfalz",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/yp7YTecUmJ4SPXzt4PzVRpvXmh8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339054/0.jpg?t=1742113964",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Baden-Württemberg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/5hIKO73Xf7Tc9UT0v4XYvnnRLtw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339057/0.jpg?t=1742113968",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Nordrhein - Westfalen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/tpgXQyD2fuO1cHvQRt669_XDtzU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339060/0.jpg?t=1742113989",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "pures Leben 01/2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/q8UY2-YN6uvjkggfozhhpEGe_Hg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/244863/0.jpg?t=1735458565",
+        "shop_name": "AEZ",
+        "valid_from": "01-01-2025",
+        "valid_to": "06-30-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DB9pampbhdUqvIEalpvgJ5yDh6I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/42/339120/0.jpg?t=1742119521",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Y8wR370oU2UGA5PB0LjyoTFnUME=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/336792/0.jpg?t=1742076619",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/z99WyglDBNraDcctACJL5w1lTVE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/328386/0.jpg?t=1742076619",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/NCwYx95HS1o9jdZ0KR3ngIKpK1Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/319812/0.jpg?t=1741471836",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/DOJ74Dm462hyNhbO0g1LiCx9Wxs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/312603/0.jpg?t=1740867016",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PckNxrzV9OmgGBCVLZ0B0_CYS1Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/305559/0.jpg?t=1739657422",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/PsS0NHRb8a9pqNetpfc3T4BVtwg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/297012/0.jpg?t=1739657422",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/H4yXXfRv891bI3HHU1ypCqFzbZQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/288918/0.jpg?t=1739052670",
+        "shop_name": "Aldi",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/qHQzBV6tS4y3sONwuka7clcicrc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/282249/0.jpg?t=1738447834",
+        "shop_name": "Aldi",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/a-RADcKN5iWynUqNkUKoYhyidw0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/255/277788/0.jpg?t=1737843027",
+        "shop_name": "Aldi",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Fmyus1JkZpAYBri0J1P0cU_jWDo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/336141/0.jpg?t=1742076620",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gxmXVSaOJBSofwwiwL6u1PJ_lLI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/331137/0.jpg?t=1742076620",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0Q2AjYMTKTIr1OCtlDcBlD16AdM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/324699/0.jpg?t=1740916033",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/EiBm2qRq1JyC3yqiija_IQlLdjI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/311907/0.jpg?t=1740262208",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/u9_N3Lrkr2cbGVTzTWezmfKLBCo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/305328/0.jpg?t=1740262208",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Yhdr1OO0LAyAqC6NS-jcBpL6zvA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/296871/0.jpg?t=1739657421",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QALf-2FNLV_4KT_Nplg0NXsa5vU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/289098/0.jpg?t=1739052671",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xabZz6n8f6UiyOeJIItiXGW9xSE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/281589/0.jpg?t=1738447833",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/V_hI3b_hF5jzCPUlK70cYZNKQlE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/240/273663/0.jpg?t=1737843026",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      }
+    ],
+    [
+      {
+        "title": "Eisenach-Hötzelsroda, Neue Wiese 1",
+        "thumbnail": "https://media.marktjagd.com/16626801_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Meißen, Schützestraße 1",
+        "thumbnail": "https://media.marktjagd.com/16628034_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Norden, Bahnhofstraße 1 A",
+        "thumbnail": "https://media.marktjagd.com/16626757_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Mühlhausen, Papiermühlenweg 18",
+        "thumbnail": "https://media.marktjagd.com/16626801_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Hamburg, Bergedorfer Straße 106",
+        "thumbnail": "https://media.marktjagd.com/16626757_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Regensburg, Hans-Hayder-Straße 2",
+        "thumbnail": "https://media.marktjagd.com/16627241_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Stuttgart-Untertürkheim, Augsburger Straße 460",
+        "thumbnail": "https://media.marktjagd.com/16629744_240x300_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Landstuhl, Torfstraße 10",
+        "thumbnail": "https://media.marktjagd.com/16627230_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Frankfurt (Oder), Josef-Gesing-Straße 6",
+        "thumbnail": "https://media.marktjagd.com/16626801_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Ratingen-Breitscheid, An der Hoffnung 125",
+        "thumbnail": "https://media.marktjagd.com/16626724_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Eggenfelden, Lindhofstraße 10",
+        "thumbnail": "https://media.marktjagd.com/16627241_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Frankfurt (Oder), Heilbronner Straße 30",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8eNE6zBMo9s2_nnoLNUSTHUyyCA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/41/338949/0.jpg?t=1742112282",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Parchim, Friedrich-Wilhelm-Raiffeisen-Ring 4",
+        "thumbnail": "https://media.marktjagd.com/16628034_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Nienburg/Weser, Kräher Weg 1",
+        "thumbnail": "https://media.marktjagd.com/16626757_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Bendorf, Hauptstraße 131",
+        "thumbnail": "https://media.marktjagd.com/16626724_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      },
+      {
+        "title": "Homburg, Robert-Bosch-Straße 2",
+        "thumbnail": "https://media.marktjagd.com/16628041_240x395_fillFFFFFF.jpg",
+        "shop_name": "Alnatura",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:11:56"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-AhBwh4r6fd7QM4pNzT5WNoDcO4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/338898/0.jpg?t=1742106357",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dBRblM4SlFhbe2vvK6-FS626sNs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/328536/0.jpg?t=1741471836",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9RMXAjTWwZFESct86do5rz6XZ1c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/324564/0.jpg?t=1741471836",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/3CwjdKEbUj-nWLmY0mhD133SjQM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/315327/0.jpg?t=1740306342",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/OAGtzEbYXoUOZTamvrKjrwxQmgY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/308342/0.jpg?t=1739692425",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/YB5winBAzrWIAsricBTP1HRVFSU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/297009/0.jpg?t=1739052672",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/rLCHgfsy3zC5uu5HM8j55LZDn14=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/289893/0.jpg?t=1739052672",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/g9Kkxn0I8rPRx3HHt9fV7ZSPFfY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/284976/0.jpg?t=1738447834",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gOfcEPrJzTCFYMQ4ig7SAeHPo6E=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/76/277782/0.jpg?t=1737280987",
+        "shop_name": "AEZ",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/_gPsjBTD7d3ZJS0xzcmL0Ep0o98=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/336204/0.jpg?t=1742076618",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/V_x94jpXrITvKQ5C833B1_XCdMQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/326361/0.jpg?t=1742076618",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/yXij_JgDjHjfZfnmrsagXCc8Ofw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/317550/0.jpg?t=1741471835",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/25UzipFXVxwHxn1PkqwPHR3QFp0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/310032/0.jpg?t=1740867013",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/BrbVIgWSzVSmHYQ3lxBCPHsv3gc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/301548/0.jpg?t=1740262206",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9do5EkHRbljKQWRU7iXbPF7alwI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/294780/0.jpg?t=1739657419",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/w2hGe1zagDnF640KwT_ujZyhpUU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/286722/0.jpg?t=1739052664",
+        "shop_name": "Aldi",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FJ5vyMpN-ew9-_XYLdOVCecFw1Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/279906/0.jpg?t=1738447830",
+        "shop_name": "Aldi",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ypHkOu-Q73_oDpQLaGmygf05eEY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/21/264555/0.jpg?t=1737843024",
+        "shop_name": "Aldi",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      }
+    ],
+    [
+      {
+        "title": "Jahresmagazin",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/iQM_z1rQ_q-N4jwciWck5J1kjdw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/246/319785/0.jpg?t=1740780620",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-28-2025",
+        "valid_to": "12-31-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/uD94nns59SWDmuM9_KLdlx7qzGw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/246/326346/0.jpg?t=1741513777",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/V4A9h495gHjylEWZ7QRrJfS-DHk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/246/294771/0.jpg?t=1738573460",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      }
+    ],
+    [
+      {
+        "title": "Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/m4Zj3Bt1z2FLlJK8dXGX-YxYsLQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/340710/0.jpg?t=1742195678",
+        "shop_name": "Alnatura",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Bremen, Hamburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/h2io7Ae2JHiyY-ldYKKeFVab1Ro=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/340713/0.jpg?t=1742195699",
+        "shop_name": "Alnatura",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Berlin, Hessen, Sachsen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/U3FNg6rqQalnnI-VGG-mn6ZzpU8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/340716/0.jpg?t=1742195725",
+        "shop_name": "Alnatura",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6B2Cwa0io_9dneuH6jVmAVIa9lk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/340719/0.jpg?t=1742195747",
+        "shop_name": "Alnatura",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Berlin, Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/r2STEbU7pvKtLj8nNZbxFa5mwkk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/340722/0.jpg?t=1742195770",
+        "shop_name": "Alnatura",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-05-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Sachsen, Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/veq0qb6oxdyCspjMzvzCIglTNSk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339006/0.jpg?t=1742113967",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Berlin",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/tVl_oITh9yJVCf0ozpX1H2ob_Cs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339009/0.jpg?t=1742114046",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Hamburg, Bremen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/pdRk9ukuBIu7L1MTYDXHpKgmuXA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339012/0.jpg?t=1742113578",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/EClHPNqIYcEzSNf-JkCNhl5Yc8o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339015/0.jpg?t=1742114047",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6TY4ZmB6uh9ceWb_7JCMFlabgbo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339018/0.jpg?t=1742115701",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Berlin, Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/1zIMTVF87M4W4Vw2HywFEwQqKBA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/339021/0.jpg?t=1742113848",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Non-Food - Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0mIwn0yU2yboSxu6nL5sLAoL2Cs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/331209/0.jpg?t=1741508075",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Non-Food - Berlin, Sachsen, Hessen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/1agMyiQan5PhJ-h5kgbUarlaQl0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/331212/0.jpg?t=1741508160",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Non-Food - Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/VIPYA75gqvhWhA4l93wz6W9DXWc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/331215/0.jpg?t=1741508185",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Non-Food - Hamburg, Bremen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/J6WtRd9REZ4DCQDpxoR9_fpmL1o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/331218/0.jpg?t=1741508189",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      },
+      {
+        "title": "Non-Food - Berlin, Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/evuFM7NxhHBIYVnP9vHJv5jJndM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/1/331221/0.jpg?t=1741508160",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:12:22"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Q51nn1NCoHhbAU92EolnA--WF9U=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/85/336153/0.jpg?t=1741943511",
+        "shop_name": "AEZ",
+        "valid_from": "03-31-2025",
+        "valid_to": "04-06-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/SRcJuwUOteGyaXzZoO6VAwB1y78=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/85/317484/0.jpg?t=1740867016",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-09-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Unsere App-Knaller des Monats",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GsnNe9y-HaOWAqkjBCNV0Vr01zI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/85/294801/0.jpg?t=1740867016",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-02-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Gz-XzUHwVwkcNfyZA-C3uT_Loew=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/85/264522/0.jpg?t=1738493634",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:13:04"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/C2MKlxqx-PYz6-Ru477WGDI4gXQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/339063/0.jpg?t=1742117470",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Mittagstisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/E_Jw5gX_tZTvlNx1NRlomPpLeOM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/339066/0.jpg?t=1742117380",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Mittagstisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/n-z-coptIQw7dzaW3quP5BDWgZM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/331038/0.jpg?t=1741507386",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zo8ZWRDmdc49gUL8r_wXHomqIHU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/331035/0.jpg?t=1741507493",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Mittagstisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FKnqxNNHinDIZl7rkTolCgXlPc8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/324657/0.jpg?t=1740899819",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xmhldFC3cE0xCpgc9o352O_7erQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/324654/0.jpg?t=1740900037",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/YxL5FbTTxacEEX9LB3tacf8PKus=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/315462/0.jpg?t=1740306226",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Mittagstisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TqiVLJkEc5zwahskYeUXBqdsVxQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/315459/0.jpg?t=1740306342",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Mittagstisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2M4vOx2K2FyshXkv3c3VxYdUjvU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/308426/0.jpg?t=1739697677",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ya9AVxe8QWa3ecx-HbA2FJFjEek=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/134/308423/0.jpg?t=1739697795",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:13:04"
+      }
+    ],
+    [
+      {
+        "title": "Sachsen-Anhalt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4heRMGe1gSKIUDODTgNEbC1qECo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338919/0.jpg?t=1742111481",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Thüringen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/5GWEJweU1iSKO9ttrcas1qTCxKc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338922/0.jpg?t=1742111482",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Nordrhein-Westfalen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/deeH_mlFQ8_A20YJtLdpw_5WEMc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338925/0.jpg?t=1742111483",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Niedersachsen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GeYi4BzSugzsafHVUDx8ChBWsAQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338928/0.jpg?t=1742111483",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Brandenburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/qgkMX4TyeBLuT76UQrGFnWE-LRw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338931/0.jpg?t=1742111484",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Marktkauf: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16622613_240x339_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Marktkauf: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16622635_240x346_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Marktkauf: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16622587_240x339_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Marktkauf: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16622586_240x339_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Marktkauf: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16622634_240x346_fillFFFFFF.jpg",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ce0JHIhuXrzI5RTjxcxJ2yeWDF4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/75/338934/0.jpg?t=1742117154",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      }
+    ],
+    [
+      {
+        "title": "Wochenangebote Gastro",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zasSEMLCliddkPmgFvjOCjTnyPk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336297/0.jpg?t=1742019675",
+        "shop_name": "Alnatura",
+        "valid_from": "08-25-2025",
+        "valid_to": "08-30-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/s39l0UE3QtPjw3BppRqFBzHmqOM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336300/0.jpg?t=1742019814",
+        "shop_name": "Alnatura",
+        "valid_from": "08-25-2025",
+        "valid_to": "08-30-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Wochenangebote Haendler",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JAacofnvfE473lHOE9LVHcGRzco=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336303/0.jpg?t=1742019680",
+        "shop_name": "Alnatura",
+        "valid_from": "08-25-2025",
+        "valid_to": "08-30-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Wochenangebote App Deals",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4-ZJHpNrsBDS9iraYeQnzAcD38o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336306/0.jpg?t=1742019685",
+        "shop_name": "Alnatura",
+        "valid_from": "08-25-2025",
+        "valid_to": "08-30-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Osterfest",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/e9Dej-sPV6ziuau9CbLKk_60g60=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/347319/0.jpg?t=1742455910",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-19-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "GastroJournal",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9cOV_jiHHA3VzbOmHdwJ5SD4i1Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/347325/0.jpg?t=1742455858",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-09-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Feinkost Spezial",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/EXQwfCXYSwu99KBc04lbouwQlJE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/347328/0.jpg?t=1742455743",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-19-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Gastro Feinkost Spezial",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/C_q8uDUhYWkIYHuIZYYNxfUohOk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/347331/0.jpg?t=1742455797",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-19-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/nfVlUT178_QfUxOj21JoXpiMDjk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/347334/0.jpg?t=1742455784",
+        "shop_name": "Alnatura",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-09-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Zugabeaktion Eismaschine 22.03.",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/H2yMvhYWPHRnf85ecGV5K1hLvKY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336045/0.jpg?t=1741852975",
+        "shop_name": "Alnatura",
+        "valid_from": "03-22-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Profi-Tipp",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/btlb9Au4ELjVVY57tJ4ifzKmCHk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/336120/0.jpg?t=1741933956",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Indoor-Möbelsortiment",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/HEd4a0EYV10TJn9RM0IE3rS-yxw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/340992/0.jpg?t=1742369589",
+        "shop_name": "Alnatura",
+        "valid_from": "03-14-2025",
+        "valid_to": "04-06-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Heimat Produkte",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/hSPMStSkhCvDpvV10l25uFGFvNk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/328215/0.jpg?t=1742025010",
+        "shop_name": "Alnatura",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Starke Marken",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/BRFEyYf2hrZIkoupxgASL-1kgg0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/328218/0.jpg?t=1741974641",
+        "shop_name": "Alnatura",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Reinigen erfrischend anders",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/jpw8ThjuOr_LCUfaEspnA0zsQFk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/328380/0.jpg?t=1741970061",
+        "shop_name": "Alnatura",
+        "valid_from": "03-07-2025",
+        "valid_to": "03-21-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      },
+      {
+        "title": "Moderne Elektrogeräte",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4Sit_CiJI003pH6jcUQYtAYNiI8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/83/328284/0.jpg?t=1741251022",
+        "shop_name": "Alnatura",
+        "valid_from": "03-06-2025",
+        "valid_to": "03-20-2025",
+        "parsed_time": "03-20-2025 18:13:17"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/LGYAEc59UD1bjvqW61gPi4nljEo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/339114/0.jpg?t=1742117938",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/t_AL4M-FtwMVFuC2BvuzmawTnXE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/336216/0.jpg?t=1741954774",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-16-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IRYjDmJwehAvpi2f5x1t0s_xnaw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/326517/0.jpg?t=1741146314",
+        "shop_name": "AEZ",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-09-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/s7Zzi9K0q0Ya3WMsOdypUtNVW0k=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/315495/0.jpg?t=1740325925",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-02-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/yfyfUg5tcHjhzMSbSYux0qzjeZ0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/308402/0.jpg?t=1739700614",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-23-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/cTvC1tCA3g1iIKUmh35qxzC9l_0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/299745/0.jpg?t=1739700614",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-16-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GxpbNziHf9DSQW56QqydocVU-DE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/293208/0.jpg?t=1738525798",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-09-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Megvaqwmqlx2sMYnM0UJMc5LV6I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/287049/0.jpg?t=1738150347",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-02-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xjDjRLAB0WYubeE1dmr-RtXe1KU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/86/279690/0.jpg?t=1737377412",
+        "shop_name": "AEZ",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-26-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/fxtoPEteSryYcCyrSQRiCTX_TeY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/339069/0.jpg?t=1742116886",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/tY-7vP3hBuO5PEIa2vT1tuZG0CA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/331248/0.jpg?t=1741513575",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/MXM6h2vrw23_v2jLZPBJCz5BhBw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/324669/0.jpg?t=1740904129",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/uN1oVXw7DEBbxRqyDsuwptIfXnA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/315468/0.jpg?t=1740307541",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CkOf6wmRuQhlx9CEx2Jolzsp9KM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/308429/0.jpg?t=1739709259",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Q_5aWa8ai03HDo6KupxHxoVTrPI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/299997/0.jpg?t=1739105362",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/GQG3Antws2U2afYxEdAE4lZuALs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/292788/0.jpg?t=1738482664",
+        "shop_name": "Aldi",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ZzP4QnpIPY8exAecT9IDx5yevZU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/286716/0.jpg?t=1737961945",
+        "shop_name": "Aldi",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/faajwiZLRe8snsIxd6a8PqDYfdg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/219/277962/0.jpg?t=1737296592",
+        "shop_name": "Aldi",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:13:46"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dpRcRbj7HlJEWkc7-IBsZDYIV4g=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/338937/0.jpg?t=1742116480",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/RZbfQ5lRUHHyScU9TU2ssuCuUN0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/331203/0.jpg?t=1741507394",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FLzdNl7zlfyMZJdIGUzEziZw7Z0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/324567/0.jpg?t=1740901462",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FCucF0h6gSErDFhNEBdk3ofyhB0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/315309/0.jpg?t=1740306338",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/LcPJd0fdQXH4rkznfqglVJG8TMM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/308360/0.jpg?t=1739694839",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6tn5AXIFDl9AEhafOw1pwXY4S9Y=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/299748/0.jpg?t=1739088625",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/nOV950_-sCiXQ6-AbaK-idMWmaI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/292797/0.jpg?t=1738483014",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/MiLqXePOTQahOkndwDSN4C8pKLY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/284997/0.jpg?t=1737874687",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/vAaNCIY-VXJOE_3ETY3SEWqBCN8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/61/277740/0.jpg?t=1737279399",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/NRNp8Q75EEMpdaIeujUz_1NkpZQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/336195/0.jpg?t=1742076617",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/vDyx9MwbqaAu-VYPPIHUjA0nbL0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/340731/0.jpg?t=1742200453",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/YF2U7sNgNUZMvTJNsiTamBaRmuY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/317499/0.jpg?t=1740383228",
+        "shop_name": "Alnatura",
+        "valid_from": "02-10-2025",
+        "valid_to": "07-19-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JyKQ_cF9cfNToGr5bEO-r1YCVr4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/319503/0.jpg?t=1742076617",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Garten Saison",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/nOU6LQj7GPnekMum8AWPc7p61QU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/317490/0.jpg?t=1740383253",
+        "shop_name": "Alnatura",
+        "valid_from": "03-06-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/haADjVIY2DAaYPVwK1mK_-5Gn6s=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/317493/0.jpg?t=1741471833",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Parchim, Neuhofer Weiche 1",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/7Q8jpKc6kUQO9oKnxoDyQyJmXuY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/320619/0.jpg?t=1740817019",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/iUPzwybkSChk6j0WK_Gr_4qO8Wo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/309972/0.jpg?t=1740867012",
+        "shop_name": "Alnatura",
+        "valid_from": "02-23-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FLe1PFdIoN4u-5nrtKRTsuu5vIQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/301539/0.jpg?t=1740175818",
+        "shop_name": "Alnatura",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/LKYaZvG0f6MfZoSV76hj7yJj9j4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/43/294720/0.jpg?t=1739657416",
+        "shop_name": "Alnatura",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:13:47"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/hwGmfjTSigqNNJzsqh7JKouQR_k=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336384/0.jpg?t=1742203158",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ZvvoL0mtO4iXN-h0KWiCho0koA0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336642/0.jpg?t=1742203181",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lKnLJnHI_pN9O02wPV3SPwcknq4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336387/0.jpg?t=1742203204",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/IdVQ-n5OA5PoKiJlkb0wQA8Bv2c=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336645/0.jpg?t=1742203198",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/L7bA-z0uX2SbZ3Aawsx9C_j16ws=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336390/0.jpg?t=1742203224",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gz3-BHUsQoJRhcj-xR86R4NJIMQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336648/0.jpg?t=1742203192",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/EGhprueZLzxRlkLm_j-k7l3YAGc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336393/0.jpg?t=1742203176",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6japBdP3j2NYNZJ54lJ4aFFygGE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336651/0.jpg?t=1742203211",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/oz8flX2U7-CEIzzxw1Fu40Qo97k=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336396/0.jpg?t=1742203245",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ox6au0RS6BaNwlbf-P8lnd06Crc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336654/0.jpg?t=1742203218",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/md2OEN6E7keX6E8HfjBsEvyLYO8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336399/0.jpg?t=1742203071",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/AB8euz8h0Newak0SN3i-cJwwnqw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336657/0.jpg?t=1742203239",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0EirR5GDjMxnfKjKjvxzpoVircs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336402/0.jpg?t=1742203192",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Getränkeangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0IGGoTprG6mHtxh-5ctTwIfs9jU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336660/0.jpg?t=1742203232",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/fc5hdG0063sg5GEy2sKnRmWh1Co=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336405/0.jpg?t=1742203212",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Netto: Wochenangebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/uSk4AvbO6V4SQZq8W1KM9ihN2es=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/336663/0.jpg?t=1742203065",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8p5VXSTW2ikICjHUtD6RzQ3k45o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/336288/0.jpg?t=1742018215",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Onlineshop",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/R8F4ORe6d-mMOHlbt0L0S2GvcJc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/336111/0.jpg?t=1741935667",
+        "shop_name": "Aldi",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-30-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "NORMAgazin März/April 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ohhVjeJ4oBdhuj1n3AV8Th-pzpA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/324705/0.jpg?t=1740913351",
+        "shop_name": "Aldi",
+        "valid_from": "03-01-2025",
+        "valid_to": "04-30-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "NORMA-Reisen März 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9e0PHIx42qv6RHgsvH1-L_VET9Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/324708/0.jpg?t=1740913045",
+        "shop_name": "Aldi",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Bestellmagazin März 2025",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JtVr9-ppYTGaP6rgDLFfpyKuKNA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/324711/0.jpg?t=1740913268",
+        "shop_name": "Aldi",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/G-vZ_wKD0f1KNJPP_F9rWUs8JBY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/336189/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Onlineshop",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/vE8MlUjBMK8qE3-kzdNp-8xWHP0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/336192/0.jpg?t=1741952519",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Produktkatalog",
+        "thumbnail": "https://eu.kimbicdns.com/all/upload/d/4/e/d4e8433b59deadd9b9ec2210737070f1785f5d9b/letkim-first-page-de-norma_023_thumb_240x.jpg",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TkQKjJ0hHn4xAenuOFSTmnkjSMc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/324714/0.jpg?t=1742076617",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Onlineshop",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/qg8VLUA1ljMeTKLCHQ5mW0GCzhU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/6/311928/0.jpg?t=1740133344",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-09-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sm_fP8gaG20ChYqspTQwB4EbpBc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/338904/0.jpg?t=1742106269",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/pMFJQDGTFuM-gAMqNYSXHe35vEs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/331032/0.jpg?t=1741508369",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2_XJR9wciHoRoUug5An1PtBBcbc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/324570/0.jpg?t=1740897138",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/WC8WOwfFQegAzbZD8IXN2wjN8BM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/315306/0.jpg?t=1740301545",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xCrGWutvX-w9VD4I2q7c_vChyjE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/308309/0.jpg?t=1739692069",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8b3xL724Bhe51M_m0MQ1u_pqBLs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/299751/0.jpg?t=1739090373",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/wCtsT_gAfxDvn-7yQBf8d0laJ48=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/292779/0.jpg?t=1738492972",
+        "shop_name": "Aldi Süd",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/43NNUhYZbXUlEiMHpsjjIEdsVo0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/285000/0.jpg?t=1737871789",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6AL4nXf0MT948l3bhNdML5g5s0I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/59/277737/0.jpg?t=1737277444",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9fsaxF1Yhlo1wQgVUwYWI0nArEw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/336129/0.jpg?t=1742076619",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Niedersachsen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ShIQlZsHoknB5jNGWn4EU7iS-zQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/331161/0.jpg?t=1741506501",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Nordrhein-Westfalen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zRs5ktaPYDeW-K2Z1QQU1xDzpmE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/331158/0.jpg?t=1741506515",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Hamburg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/XKD4NidFiZlntSR39I3qgTrZT9w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/331155/0.jpg?t=1741506503",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Saarland",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/67YkJSYikVbXgqVfjnGvu3DKRJA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/331152/0.jpg?t=1741506439",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Mecklenburg-Vorpommern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/_pOU29HO4_2-Bs8aLO_RbMzDWck=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/328503/0.jpg?t=1741418478",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Berlin",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/RN_sxODPJ_OQHh-zcnFr038T6i4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/328497/0.jpg?t=1741418489",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Sachsen-Anhalt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Gv0NqtTL8HZNKYREMwm642H65nc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/328491/0.jpg?t=1741418430",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Sachsen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/dLhrFqWaopmrJQAfJA1MbF2_CXU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/328485/0.jpg?t=1741418444",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      },
+      {
+        "title": "Thüringen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/qES9lHbq4Wo0blheCpbRE3sPaUY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/7/328479/0.jpg?t=1741418446",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:14:25"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Bremen/Huchting, Alte Heerstrasse 2",
+        "thumbnail": "https://media.marktjagd.com/16611071_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bodenheim, Hilgestr. 22",
+        "thumbnail": "https://media.marktjagd.com/16610489_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Stuttgart, Rückertstraße 7",
+        "thumbnail": "https://media.marktjagd.com/16610947_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Köln, Hohenstaufenring 2",
+        "thumbnail": "https://media.marktjagd.com/16610601_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "München, Walter-Sedlmayr-Platz 6",
+        "thumbnail": "https://media.marktjagd.com/16610738_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bremen, Stader Straße 1",
+        "thumbnail": "https://media.marktjagd.com/16610609_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Hamburg/Osdorf, Rugenbarg 7",
+        "thumbnail": "https://media.marktjagd.com/16610348_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Berlin / Neukölln, Hermannstraße 1",
+        "thumbnail": "https://media.marktjagd.com/16610964_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "München, Feldmochinger Str. 423",
+        "thumbnail": "https://media.marktjagd.com/16610535_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Friedberg, Im Krämer 7",
+        "thumbnail": "https://media.marktjagd.com/16611047_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Pulheim / Brauweiler, Kaiser-Otto-Straße 1",
+        "thumbnail": "https://media.marktjagd.com/16611188_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Hamburg, Schiffbeker Weg 2",
+        "thumbnail": "https://media.marktjagd.com/16610980_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Stuttgart / Süd, Marienplatz 8",
+        "thumbnail": "https://media.marktjagd.com/16610467_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Düsseldorf, Am Gatherhof 9 / Westfalenstr. 64",
+        "thumbnail": "https://media.marktjagd.com/16610778_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Rewe: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16610296_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Rewe: Wochenangebote",
+        "thumbnail": "https://media.marktjagd.com/16610573_240x424_fillFFFFFF.jpg",
+        "shop_name": "AEZ",
+        "valid_from": "03-16-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/C5ORuQs4t4fl9itzX6sZoh9VM7I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/340674/0.jpg?t=1742195717",
+        "shop_name": "Aldi",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/amDiBsx6xknDx0hvTQhG7z86LYw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/331263/0.jpg?t=1741515907",
+        "shop_name": "Aldi",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-16-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/g1RdGWp-Bi8lCAyLn4dZG4DUucc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/324720/0.jpg?t=1741515012",
+        "shop_name": "Aldi",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-09-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zJ25Vi8dT9rQPVf2M3H9m5CiGhw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/312612/0.jpg?t=1740280219",
+        "shop_name": "Aldi",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-02-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/c8yyzK_jZvC-rMy3NUVkh178wJk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/305547/0.jpg?t=1740262210",
+        "shop_name": "Aldi",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-23-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lZsRAU1P_2IccFVCy0WZD1Smogk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/300024/0.jpg?t=1739657423",
+        "shop_name": "Aldi",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-16-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/rxLe14UqXs3NJFRekk2GzfK8z90=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/289890/0.jpg?t=1738493236",
+        "shop_name": "Aldi",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-09-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/SOzJzZonT7reZH2m-IhqBUb9Ago=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/286710/0.jpg?t=1738447836",
+        "shop_name": "Aldi",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-02-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/g74oAJjnAbaUvr84GZR--2TSXwE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/109/277986/0.jpg?t=1737297821",
+        "shop_name": "Aldi",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-26-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      }
+    ],
+    [
+      {
+        "title": "Feinkost für Ostern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/riRp5BCavWrFyIZIJbRe5c7tqDw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/321594/0.jpg?t=1740815145",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-06-2025",
+        "valid_to": "04-19-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Außengastronomie",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/td6l-5QlJG-EWhS1_mi64xD4FhM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/273645/0.jpg?t=1737102972",
+        "shop_name": "Aldi Süd",
+        "valid_from": "01-23-2025",
+        "valid_to": "04-30-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QMtFw58e3uVqVa8XQaX4saYQakk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/336243/0.jpg?t=1742335818",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Non Food",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/l4EUrLtL5NqGWhnZsxrJz5ps0Kk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/336249/0.jpg?t=1741968876",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Garten Exklusiv ",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/byHv1RVzAZXNhtHpiif2HWAdbcc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/336252/0.jpg?t=1741968935",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "07-31-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Schneider Professional - Schirme",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/tlctiRECO3v_7x_ZxSeSu4-dbDo=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/340863/0.jpg?t=1742285897",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-18-2025",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Obst & Gemüse",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CDTzHU_zV04C65aKGyA7TeiqWP4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/340866/0.jpg?t=1742285962",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-18-2025",
+        "valid_to": "03-24-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Gastro Angebote",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/tN3qNzwa-xILy_1k-bWhfxDorew=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/336246/0.jpg?t=1741968934",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Odersatz",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Q3DyzZSZea6oEhn-4m_mI0JQf5I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/326466/0.jpg?t=1741081189",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-03-2025",
+        "valid_to": "04-30-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bestes Fleisch",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/urth3jAeTaCbkVf-kBb3m_raPps=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/326463/0.jpg?t=1741081106",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Impulseis 2025 ",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sOyYoUBjX1jkYxRlN40ENmZ825w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/326469/0.jpg?t=1741081213",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Edna Backwaren",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/sb7RxFJIUFSDBaM5kiAUS58tPWM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/77/143100/0.jpg?t=1724062703",
+        "shop_name": "Aldi Süd",
+        "valid_from": "08-19-2024",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:15:05"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/OIKUyz1m7mEHlw9yKGo1YNu2TPw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/336042/0.jpg?t=1742076619",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lRVPy0ym6cfViuApDj061xeIyNY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/347361/0.jpg?t=1742463737",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/ODJgTE5djiXNkPyjxYC2YRglf7Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/347385/0.jpg?t=1742467293",
+        "shop_name": "Alnatura",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/fsK3HJBH07eE5TWruhs4y4JYT_I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/336117/0.jpg?t=1741931986",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/CFM9OpSIz_aNA0hS49wOIboqSRA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/328317/0.jpg?t=1741263446",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/JdQTioKio8ZgUAtm8kKTu_VJxe4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/328260/0.jpg?t=1742076618",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/V-pPBtwlkyKGnOXzhvBbKKVt880=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/319419/0.jpg?t=1740666584",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/oodgZpdj0uGbaj3e6qpF4t7Gbpw=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/319395/0.jpg?t=1741471835",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/0-mAiFNHP0sGRpG1oYZ2EQxyrgE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/311841/0.jpg?t=1740046180",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ai7-BCGJJEA0mg9A0EHd-FQCLRQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/228/311838/0.jpg?t=1740867014",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:15:05"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/R62k-hy19kl6KGH5BPYaoX2VpK0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/106/79779/0.jpg?t=1713281155",
+        "shop_name": "AEZ",
+        "valid_from": "12-06-2023",
+        "valid_to": "Not specified",
+        "parsed_time": "03-20-2025 18:15:44"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/pHDr5vOZ79YxnXURRO0iljdH2xU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/338994/0.jpg?t=1742116143",
+        "shop_name": "Aldi",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Thüringen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/-UDdlxr-rVb1LatbyG3FrTZiQzE=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/338997/0.jpg?t=1742116167",
+        "shop_name": "Aldi",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Baden-Württemberg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/mf1tHVC2JujaSyfbCc82ThfmYWQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/339000/0.jpg?t=1742116260",
+        "shop_name": "Aldi",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Rheinland-Pfalz, Niedersachsen, Heidelberg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/_iHaeZbQDigSCYDFt4VhnyNyMVc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/339003/0.jpg?t=1742116165",
+        "shop_name": "Aldi",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/W21VCe1nL3Brn2jFOiq8ZYSDE2I=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/339126/0.jpg?t=1742119914",
+        "shop_name": "Aldi",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Rheinland-Pfalz, Niedersachsen, Heidelberg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/o9i1XS10zcFoNTyQKFjkY1FhRCs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331149/0.jpg?t=1741505980",
+        "shop_name": "Aldi",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": " Thüringen",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/xfjIZvChfCMOO0nkGbUvN0tDB3A=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331146/0.jpg?t=1741508453",
+        "shop_name": "Aldi",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Baden-Württemberg",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/4Y1tz4IFRhPsyjJ35vuNq3A818k=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331143/0.jpg?t=1741508370",
+        "shop_name": "Aldi",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Bayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9NBmUMpjzpdQglnFKIddAu8XrzA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331140/0.jpg?t=1741508454",
+        "shop_name": "Aldi",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Lpfief1rTHFvMF-CD2-qrRtqz90=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/65/331041/0.jpg?t=1741506546",
+        "shop_name": "Aldi",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      }
+    ],
+    [
+      {
+        "title": "Angebote Hallertau/Oberpfalz",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/KmgUTWIxgmJIyv064STio6W5vkg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336063/0.jpg?t=1742335818",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Angebote Hallertau/Oberpfalz",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/TCab979Z9exuTo20upF4f1hVbIk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/347352/0.jpg?t=1742456448",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-02-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "München",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/8eRzYC1bhCvZKQbFbil8o8q3qWQ=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/347355/0.jpg?t=1742454325",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-02-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Schwaben/Oberbayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/VmZpzyQ1IyTo4Sw6doG5yiugVv4=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/347358/0.jpg?t=1742454219",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-27-2025",
+        "valid_to": "04-02-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Fischangebote München",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/QxX1F_eU2G1ddVNWB5SS30TqAnA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336066/0.jpg?t=1741851147",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "04-02-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "München",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/hsvthMNqQ8Xma4tvfr3tjuxhtcg=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336069/0.jpg?t=1741851155",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Schwaben/Oberbayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/7G5EiYLjLhAPcYZNPcdnTtttoMI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/336072/0.jpg?t=1741851224",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-20-2025",
+        "valid_to": "03-26-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Fleisch-Spezialitaten",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/Ih_rK4UWvJDzon6qP-Zk5_RGXy0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/321624/0.jpg?t=1740815042",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-01-2025",
+        "valid_to": "03-31-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Vielfalt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zu64ZRlT4bDNjtfdVS4_E2r0Za0=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/321627/0.jpg?t=1740815632",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-01-2025",
+        "valid_to": "04-30-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      },
+      {
+        "title": "Schwaben/Oberbayern",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/zkXcdr_vv6BwqFGZXEIzUMyPrP8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/62/328209/0.jpg?t=1742025350",
+        "shop_name": "Aldi Süd",
+        "valid_from": "03-13-2025",
+        "valid_to": "03-19-2025",
+        "parsed_time": "03-20-2025 18:15:44"
+      }
+    ],
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/aHLwRx-7fuhaTZuNaUjfdzwm00w=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/339072/0.jpg?t=1742116548",
+        "shop_name": "Alnatura",
+        "valid_from": "03-17-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/2IXXhLzSBlnq1K_uqN4xKHT3zjY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/336168/0.jpg?t=1741946823",
+        "shop_name": "Alnatura",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/FW04xxWOcVN5K1g4f18kNFd6l0o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/324687/0.jpg?t=1740904010",
+        "shop_name": "Alnatura",
+        "valid_from": "03-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/uiqNqbhdz8E4oax3Frh2aFaPdJY=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/315471/0.jpg?t=1740325927",
+        "shop_name": "Alnatura",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/RHdovUDkTGOaGgW82ecHEHIhioI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/308460/0.jpg?t=1739709999",
+        "shop_name": "Alnatura",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/v6KVV60Nu413cEunuDAeJcdzPQk=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/300000/0.jpg?t=1739106650",
+        "shop_name": "Alnatura",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/epe1LflYPP0XceCQ8Zzd-o_aU_Q=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/292791/0.jpg?t=1738482042",
+        "shop_name": "Alnatura",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/iuYBsnNJbTlXcJD3YZl58u7JiPc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/285102/0.jpg?t=1737878491",
+        "shop_name": "Alnatura",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/wWiNs6vzDGkJuL7S3HhPcKyXsMA=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/184/277965/0.jpg?t=1737297512",
+        "shop_name": "Alnatura",
+        "valid_from": "01-20-2025",
+        "valid_to": "01-25-2025",
+        "parsed_time": "03-20-2025 18:15:45"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/l9QR3CUnHDFMazUZstuD_t4hTGU=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/336027/0.jpg?t=1742116259",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-22-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/6N-VNYQ8X-nj2uPHOhhz3I0PQK8=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/347124/0.jpg?t=1742445681",
+        "shop_name": "AEZ",
+        "valid_from": "03-24-2025",
+        "valid_to": "03-29-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/iGzuKfgUh2z5HBspPshXS7ju6ts=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/328242/0.jpg?t=1741471835",
+        "shop_name": "AEZ",
+        "valid_from": "03-10-2025",
+        "valid_to": "03-15-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/lln_mQ-fbyY63MZaf1anOpe1N70=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/310260/0.jpg?t=1740780620",
+        "shop_name": "AEZ",
+        "valid_from": "02-24-2025",
+        "valid_to": "03-01-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/gvWldrzT3FCdObLmufBsIY-6nEc=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/303153/0.jpg?t=1740262207",
+        "shop_name": "AEZ",
+        "valid_from": "02-17-2025",
+        "valid_to": "02-22-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/7tR6UDwM79bIImAf7ieGZTjPvks=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/299763/0.jpg?t=1739089920",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/K51f57ONtCv16yilN6sMdSY5Z3o=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/295167/0.jpg?t=1739657419",
+        "shop_name": "AEZ",
+        "valid_from": "02-10-2025",
+        "valid_to": "02-15-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/9kz_Nc3tSJr-oTTRsUZphNr0YVI=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/317817/0.jpg?t=1741471835",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "03-08-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/wc9J-n10PGBoXM9A0lVhZ1vlafM=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/288627/0.jpg?t=1739052667",
+        "shop_name": "AEZ",
+        "valid_from": "02-03-2025",
+        "valid_to": "02-08-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      },
+      {
+        "title": "Prospekt",
+        "thumbnail": "https://eu.leafletscdns.com/thumbor/C7dR-0rk7YqTNoKFOpf-Z5sKNig=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/194/281469/0.jpg?t=1738447831",
+        "shop_name": "AEZ",
+        "valid_from": "01-27-2025",
+        "valid_to": "02-01-2025",
+        "parsed_time": "03-20-2025 18:16:05"
+      }
+    ]
+  ]
 ]
