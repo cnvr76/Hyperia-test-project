@@ -64,7 +64,7 @@ class Parser:
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             return driver.page_source
         except Exception as e:
-            print(f"Ошибка при загрузке {link}: {e}")
+            print(f"Error loading {link}: {e}")
             return ""
         finally:
             driver.quit()

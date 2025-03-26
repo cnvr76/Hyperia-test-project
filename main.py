@@ -21,11 +21,11 @@ async def main() -> None:
     final_result = []
     for i in range(0, shop_count, BATCH_SIZE):
         batch = shop_data[i: i + BATCH_SIZE]
-
+        
         tasks = [parser.send_request_async(shop["link"]) for shop in batch]
         responses = await asyncio.gather(*tasks)
 
-        parse_tasks = [parser.parse_info(html, shop["shop_name"]) for html, shop in zip(responses, shop_data)]
+        parse_tasks = [parser.parse_info(html, shop["shop_name"]) for html, shop in zip(responses, batch)]
         parsed_results = await asyncio.gather(*parse_tasks)
 
         final_result.append(parsed_results)

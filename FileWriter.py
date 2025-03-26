@@ -34,7 +34,8 @@ class Writer:
         except FileNotFoundError as fnfe:
             print(f"'{filename=}' not found...")
             return False
-        
+    
+    @staticmethod
     def load_from_file(filename: str) -> str | None:
         try:
             with open(filename, "r", encoding="utf-8") as file:
